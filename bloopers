@@ -4,4 +4,5 @@ git push --force origin main
 
 from xubuntu machine
 
+p.s. never use it again: git push --force web <hash-token>:main
 
